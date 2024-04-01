@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class HazardCollision : MonoBehaviour
+public class DEATH : MonoBehaviour
 {
     private AudioSource audioSource;
 
