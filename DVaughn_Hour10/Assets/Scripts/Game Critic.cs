@@ -1,0 +1,6 @@
+/*
+ Added a timer 
+changed the size of bumper
+covered up the terrain
+changed foot step audio
+ */
